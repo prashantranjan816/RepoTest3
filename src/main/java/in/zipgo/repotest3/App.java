@@ -23,6 +23,7 @@ public class App
 	   driver.quit();
 	   System.out.println("Browser has close");
 	   System.out.println("Browser has close");
+	   System.out.println("Browser has close");
 	   
    }
 	
