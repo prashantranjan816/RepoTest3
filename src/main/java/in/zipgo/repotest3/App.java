@@ -22,6 +22,7 @@ public class App
 	   driver.get("http://www.google.com");
 	   driver.quit();
 	   System.out.println("Browser has close");
+	   System.out.println("Browser has close");
 	   
    }
 	
