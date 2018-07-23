@@ -27,6 +27,7 @@ public class App
 	   System.out.println("Browser has close");
 	   System.out.println("Browser has close");
 	   System.out.println("Browser has close");
+	   System.out.println("Browser has close");
 	   
    }
 	
