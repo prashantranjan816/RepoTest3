@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="6089" started-at="2018-07-22T10:13:46Z" finished-at="2018-07-22T10:13:52Z">
+  <suite name="Default suite" duration-ms="9296" started-at="2018-07-23T07:03:42Z" finished-at="2018-07-23T07:03:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="6089" started-at="2018-07-22T10:13:46Z" finished-at="2018-07-22T10:13:52Z">
+    <test name="Default test" duration-ms="9296" started-at="2018-07-23T07:03:42Z" finished-at="2018-07-23T07:03:52Z">
       <class name="in.zipgo.repotest3.App">
-        <test-method status="PASS" signature="abc()[pri:0, instance:in.zipgo.repotest3.App@ae45eb6]" name="abc" duration-ms="75" started-at="2018-07-22T15:43:46Z" finished-at="2018-07-22T15:43:46Z">
+        <test-method status="PASS" signature="abc()[pri:0, instance:in.zipgo.repotest3.App@ae45eb6]" name="abc" duration-ms="19" started-at="2018-07-23T12:33:43Z" finished-at="2018-07-23T12:33:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abc -->
-        <test-method status="PASS" signature="abc1()[pri:0, instance:in.zipgo.repotest3.App@ae45eb6]" name="abc1" duration-ms="5965" started-at="2018-07-22T15:43:46Z" finished-at="2018-07-22T15:43:52Z">
+        <test-method status="PASS" signature="abc1()[pri:0, instance:in.zipgo.repotest3.App@ae45eb6]" name="abc1" duration-ms="9226" started-at="2018-07-23T12:33:43Z" finished-at="2018-07-23T12:33:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- abc1 -->
