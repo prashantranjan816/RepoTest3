@@ -1,1 +1,2 @@
 Helo server testing.
+cd /Users/rachit/git/repotest3/repotest3 && mvn clean install
